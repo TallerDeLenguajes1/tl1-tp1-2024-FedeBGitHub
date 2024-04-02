@@ -19,3 +19,7 @@ Se lo puede crear manualmente o usar paginas generadoras de este archivo dependi
 *¿Cual cree que no hace falta que esté?*
 Para mi no hacen falta el archivo .vscode que fue creado para depurar el codigo de tp1_1.cpp.
 Ni tampoco tp1_1.exe ya que es solo el ejecutable
+
+*3)g)*
+El resultado es el mismo porque ya anteriormente habia subido todo incluyendo el .exe al repositorio ya que no habia excluido los .exe en .gitignore.
+En el punto 4 fue distinto no se subio el ejecutable (.exe) porque ya esta estaba excluido en el .gitignore
